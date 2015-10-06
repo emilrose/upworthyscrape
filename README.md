@@ -15,6 +15,7 @@ A copy of the dataset is included, containing articles published on September 20
 Note that "TIMES_TO_PAGE_DOWN" in scrapehelper can be modified to change the number of articles scraped.
 
 Features:
+
 0. url: URL of the article (non-predictive)
 
 1. data_published: Number representing how many days have passed between the time the article was published and the current date
