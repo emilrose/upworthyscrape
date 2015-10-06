@@ -17,7 +17,7 @@ Note that "TIMES_TO_PAGE_DOWN" in scrapehelper can be modified to change the num
 Features:
 0. url: URL of the article (non-predictive)
 
-1. data_published: Number representing how many days have passed between the time the article was published and 09/26/2015
+1. data_published: Number representing how many days have passed between the time the article was published and the current date
 
 2. num_tokens_title: Number of words in the title
 
